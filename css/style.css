@@ -356,22 +356,22 @@ body {
 }
 #header-title {
   text-align: center;
-  height: 40px;
+  height: 90px;
   position: absolute;
   top: 50%;
   left: 0;
-  margin-top: -20px;
+  margin-top: -45px;
 }
 #logo,
 #subtitle {
   text-decoration: none;
-  color: #044;
+  color: #f84;
   font-weight: 300;
   text-shadow: 0 1px 4px rgba(0,0,0,0.3);
 }
 #logo {
-  font-size: 40px;
-  line-height: 40px;
+  font-size: 90px;
+  line-height: 90px;
   letter-spacing: 2px;
 }
 #subtitle {
