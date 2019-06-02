@@ -14,14 +14,14 @@
 <meta property="og:site_name" content="Pragana&#39;s Blog">
 <meta property="og:description" content="An admin UI for the Hexo blog engine. Based off of the Ghost interface, with inspiration from svbtle and prose.io. Hexo VersionFor 2.x, use version 0.3.0 of this plugin. Version 1.x and beyond onlysu">
 <meta property="og:locale" content="default">
-<meta property="og:image" content="https://rpragana.github.io/2019/06/02/Hexo-Admin/logo.png">
-<meta property="og:image" content="https://rpragana.github.io/2019/06/02/Hexo-Admin/docs/pasted-0.png?raw=true">
-<meta property="og:image" content="https://rpragana.github.io/2019/06/02/Hexo-Admin/docs/pasted-1.png?raw=true">
-<meta property="og:updated_time" content="2019-06-02T15:13:21.066Z">
+<meta property="og:image" content="https://rpragana.github.io/images/logo.png">
+<meta property="og:image" content="https://rpragana.github.io/images/pasted-0.png?raw=true">
+<meta property="og:image" content="https://rpragana.github.io/images/pasted-1.png?raw=true">
+<meta property="og:updated_time" content="2019-06-02T15:19:46.543Z">
 <meta name="twitter:card" content="summary">
 <meta name="twitter:title" content="Hexo Admin">
 <meta name="twitter:description" content="An admin UI for the Hexo blog engine. Based off of the Ghost interface, with inspiration from svbtle and prose.io. Hexo VersionFor 2.x, use version 0.3.0 of this plugin. Version 1.x and beyond onlysu">
-<meta name="twitter:image" content="https://rpragana.github.io/2019/06/02/Hexo-Admin/logo.png">
+<meta name="twitter:image" content="https://rpragana.github.io/images/logo.png">
   
     <link rel="alternate" href="/atom.xml" title="Pragana&#39;s Blog" type="application/atom+xml">
   
@@ -90,7 +90,7 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p><img src="logo.png" alt="logo"></p>
+        <p><img src="/images/logo.png" alt="logo" title="Logotipo do Hexo Admin"></p>
 <p>An admin UI for the <a href="http://hexo.io" target="_blank" rel="noopener">Hexo blog engine</a>. Based off of the <a href="http://ghost.org" target="_blank" rel="noopener">Ghost</a> interface, with inspiration from <a href="http://svbtle.com" target="_blank" rel="noopener">svbtle</a> and <a href="http://prose.io" target="_blank" rel="noopener">prose.io</a>.</p>
 <h2 id="Hexo-Version"><a href="#Hexo-Version" class="headerlink" title="Hexo Version"></a>Hexo Version</h2><p>For 2.x, use version <code>0.3.0</code> of this plugin. Version <code>1.x</code> and beyond only<br>support Hexo v3.x.</p>
 <h3 id="Contents"><a href="#Contents" class="headerlink" title="Contents"></a>Contents</h3><ul>
@@ -100,8 +100,8 @@
 </ul>
 <h1 id="Local-use-vs-deployment"><a href="#Local-use-vs-deployment" class="headerlink" title="Local use vs deployment"></a>Local use vs deployment</h1><p>This plugin was originally designed as a local editor – you run hexo locally, use <code>hexo-admin</code> to author posts, and then use <code>hexo generate</code> or <code>hexo deploy</code> to send the generated static HTML files up to github pages or some other static server.</p>
 <p>However, <code>hexo-admin</code> can be run on your live blog, as long as you’re using a non-static hosting service such as Heroku, DigitalOcean, etc. Static hosting services such as Github pages and Surge.sh does not support running hexo-admin from your live site.<br>If you’re using Hexo admin from your live blog, you should definitely set up a password (see below) – otherwise anyone will be able to edit your content.</p>
-<h1 id="Screenshots"><a href="#Screenshots" class="headerlink" title="Screenshots"></a>Screenshots</h1><p><img src="docs/pasted-0.png?raw=true" alt="posts view"></p>
-<p><img src="docs/pasted-1.png?raw=true" alt="editor view"></p>
+<h1 id="Screenshots"><a href="#Screenshots" class="headerlink" title="Screenshots"></a>Screenshots</h1><p><img src="/images/pasted-0.png?raw=true" alt="posts view"></p>
+<p><img src="/images/pasted-1.png?raw=true" alt="editor view"></p>
 <h1 id="Quickstart"><a href="#Quickstart" class="headerlink" title="Quickstart"></a>Quickstart</h1><h3 id="1-Setup-hexo-amp-create-a-blog"><a href="#1-Setup-hexo-amp-create-a-blog" class="headerlink" title="1. Setup hexo &amp; create a blog"></a>1. Setup hexo &amp; create a blog</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">npm install -g hexo</span><br><span class="line"><span class="built_in">cd</span> ~/</span><br><span class="line">hexo init my-blog</span><br><span class="line"><span class="built_in">cd</span> my-blog</span><br><span class="line">npm install</span><br></pre></td></tr></table></figure>
 
 <h3 id="2-Install-the-admin-amp-start-things-up"><a href="#2-Install-the-admin-amp-start-things-up" class="headerlink" title="2. Install the admin &amp; start things up"></a>2. Install the admin &amp; start things up</h3><figure class="highlight sh"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">npm install --save hexo-admin</span><br><span class="line">hexo server -d</span><br><span class="line">open http://localhost:4000/admin/</span><br></pre></td></tr></table></figure>
@@ -126,7 +126,7 @@
       
     </div>
     <footer class="article-footer">
-      <a data-url="https://rpragana.github.io/2019/06/02/Hexo-Admin/" data-id="cjwf358fv0002ywp9vq0367ax" class="article-share-link">Share</a>
+      <a data-url="https://rpragana.github.io/2019/06/02/Hexo-Admin/" data-id="cjwf3nzmk0002n6p9t9tbo5un" class="article-share-link">Share</a>
       
       
     </footer>
@@ -184,10 +184,6 @@
         
           <li>
             <a href="/2019/06/01/escrevendo/">Escrevendo no blog</a>
-          </li>
-        
-          <li>
-            <a href="/2019/06/01/Testando-o-novo-blog/">Testando o novo blog</a>
           </li>
         
           <li>
