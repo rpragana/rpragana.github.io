@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Pragana&#39;s Blog</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://rpragana.github.io/"/>
+  <updated>2019-06-02T16:31:55.068Z</updated>
+  <id>https://rpragana.github.io/</id>
+  
+  <author>
+    <name>Rildo Pragana</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Escrevendo no blog</title>
+    <link href="https://rpragana.github.io/2019/06/02/escrevendo/"/>
+    <id>https://rpragana.github.io/2019/06/02/escrevendo/</id>
+    <published>2019-06-02T15:34:00.000Z</published>
+    <updated>2019-06-02T16:31:55.068Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;hr&gt;
+&lt;h3 id=&quot;Escrevendo-no-blog-com-markdown&quot;&gt;&lt;a href=&quot;#Escrevendo-no-blog-com-markdown&quot; class=&quot;headerlink&quot; title=&quot;Escrevendo no blog com
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo (readme)</title>
+    <link href="https://rpragana.github.io/2019/06/02/Hexo-readme/"/>
+    <id>https://rpragana.github.io/2019/06/02/Hexo-readme/</id>
+    <published>2019-06-02T15:31:18.000Z</published>
+    <updated>2019-06-02T15:31:22.154Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Hexo&quot;&gt;&lt;a href=&quot;#Hexo&quot; class=&quot;headerlink&quot; title=&quot;Hexo&quot;&gt;&lt;/a&gt;Hexo&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/hexojs/hexo&quot; target=&quot;_blank&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Exemplo rápido em markdown</title>
+    <link href="https://rpragana.github.io/2019/06/02/Guia-rapido-do-markdown/"/>
+    <id>https://rpragana.github.io/2019/06/02/Guia-rapido-do-markdown/</id>
+    <published>2019-06-02T15:24:06.000Z</published>
+    <updated>2019-06-03T01:02:11.814Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;Um-header-h1&quot;&gt;&lt;a href=&quot;#Um-header-h1&quot; class=&quot;headerlink&quot; title=&quot;Um header h1&quot;&gt;&lt;/a&gt;Um header h1&lt;/h1&gt;&lt;p&gt;Parágrafos são separados por
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown cheatsheet</title>
+    <link href="https://rpragana.github.io/2019/06/02/Markdown-cheatsheet/"/>
+    <id>https://rpragana.github.io/2019/06/02/Markdown-cheatsheet/</id>
+    <published>2019-06-02T15:20:25.000Z</published>
+    <updated>2019-06-02T16:41:14.689Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;This is intended as a quick reference and showcase. For more complete info, see &lt;a href=&quot;http://daringfireball.net/projects/markdown/&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo Admin</title>
+    <link href="https://rpragana.github.io/2019/06/02/Hexo-Admin/"/>
+    <id>https://rpragana.github.io/2019/06/02/Hexo-Admin/</id>
+    <published>2019-06-02T15:04:56.000Z</published>
+    <updated>2019-06-02T15:19:46.543Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/images/logo.png&quot; alt=&quot;logo&quot; title=&quot;Logotipo do Hexo Admin&quot;&gt;&lt;/p&gt;
+&lt;p&gt;An admin UI for the &lt;a href=&quot;http://hexo.io&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Markdown - bold</title>
+    <link href="https://rpragana.github.io/2019/06/02/Markdown-bold/"/>
+    <id>https://rpragana.github.io/2019/06/02/Markdown-bold/</id>
+    <published>2019-06-02T13:57:44.000Z</published>
+    <updated>2019-06-02T14:12:53.569Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h3 id=&quot;Introduzindo-texto-em-negrito&quot;&gt;&lt;a href=&quot;#Introduzindo-texto-em-negrito&quot; class=&quot;headerlink&quot; title=&quot;Introduzindo texto em
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://rpragana.github.io/2019/06/01/hello-world/"/>
+    <id>https://rpragana.github.io/2019/06/01/hello-world/</id>
+    <published>2019-06-01T18:52:15.195Z</published>
+    <updated>2019-06-01T18:52:15.195Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
